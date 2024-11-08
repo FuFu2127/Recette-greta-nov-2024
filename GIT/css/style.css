@@ -87,7 +87,14 @@ header ul li {
 .gallerie article {
     width: 32%;
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
 }
+
 .gallerie article img {
     width: 100%;
+}
+
+.gallerie h2 {
+    flex: 1;
 }
