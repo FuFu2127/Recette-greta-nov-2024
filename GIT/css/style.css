@@ -76,3 +76,18 @@ header ul li {
     margin-left: 20px;
     font-size: 1.6rem;
 }
+
+.gallerie {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.gallerie article {
+    width: 32%;
+    margin-bottom: 20px;
+}
+.gallerie article img {
+    width: 100%;
+}
