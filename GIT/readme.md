@@ -30,3 +30,16 @@ lien hypertexte :
 ### titre de niveau 3
 
 ![image](matrix.jpg)
+
+
+## afficher des commandes
+
+````
+
+git add .
+git commit -m "message"
+git push
+
+````
+
+code dans un paragraphe ` git commit `
