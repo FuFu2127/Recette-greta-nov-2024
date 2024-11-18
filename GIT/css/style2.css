@@ -101,3 +101,8 @@ header ul li { /* espace entre les liens et taille des liens*/
 .gallerie article h2{
     flex:1; 
 }
+
+footer{
+    display: flex;
+    justify-content: center;
+}
