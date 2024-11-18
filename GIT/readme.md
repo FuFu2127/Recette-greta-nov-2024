@@ -17,4 +17,10 @@ pour rédiger un article dans le site il faudra :
 2. disposer d'un profil gestionnaire
 3. rédiger en français en anglais
 
+liste des futures codages :
+
+1. [x] réaliser la page de connexion
+2. [ ] créer la base de données
+3. [ ] installer PHP
+
 ### titre de niveau 3
